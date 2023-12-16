@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #642B73;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #C6426E, #642B73);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #C6426E, #642B73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.main{
+    height: 60vh;
+    width: 50vw;
+    background-color: #fff;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+h1{
+    padding-top: 50px;
+    padding-left: 70px;
+    font-size: 55px;
+    padding-bottom: 20px;
+}
+
+.lable{
+    padding-left: 70px;
+    font-size: 25px; 
+}
+
+.one{
+    margin-top: 20px;
+    height: 5vh;
+    width: 16vw;
+    font-size: 20px;
+}
+
+button{
+    margin-top: 20px;
+    height: 5   vh;
+    width: 7vw;
+    font-size: 20px;
+}
+
+#result{
+    margin-left: 70px;
+    font-size: 25px;
+    margin-top: 15px;
+}
